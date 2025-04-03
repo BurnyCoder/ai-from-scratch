@@ -17,7 +17,6 @@ This directory contains implementations of different neural network architecture
 - **multiple_linear_polynomical_sinus_etc_regression_and_gradient_descent.ipynb**: Implementation of various regression techniques including multiple linear, polynomial, and sine regression with gradient descent.
 - **grpo_group_relative_policy_optimization.ipynb**: Implementation of Group Relative Policy Optimization (GRPO), a reinforcement learning algorithm that enhances LLM's reasoning abilities by generating multiple responses to a given prompt, evaluating each using a reward function (solution correctness in math), and updating the model based on the relative performance of these responses within the group
 
-
 #### Transformer
 
 - **transformer.py**: Implementation of the transformer architecture.
@@ -30,6 +29,14 @@ This directory contains implementations of different neural network architecture
 - **fineweb.py**: Fine-tuning utilities for web data.
 - **hellaswag.py**: Implementation for the HellaSwag benchmark.
 - **input.txt**: Training data for the model.
+
+### Physics-Inspired Neural Networks
+
+- **cooling/**: A collection of notebooks and code exploring physics-based applications of machine learning:
+  - **temp_pred.ipynb**: Neural network models and physics informed neural network model for predicting temperature dynamics in cooling systems, including implementation of L2 regularization techniques.
+  - **regularisation_ex.ipynb**: Demonstrates the application of regularization techniques in machine learning models to prevent overfitting, with visualizations comparing regularized vs. non-regularized polynomial regression.
+  - **network.py**: Basic neural network architecture for solving physics-based problems.
+  - **diff_equations.py**: Implementation of fundamental cooling law equations and gradient calculation for physics-based machine learning.
 
 ### Exercises
 
