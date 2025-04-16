@@ -15,8 +15,8 @@ This directory contains implementations of different neural network architecture
 - **linear_regression.py**: Linear regression implementation.
 - **bigram.py**: Bigram language model implementation.
 - **multiple_linear_polynomical_sinus_etc_regression_and_gradient_descent.ipynb**: Implementation of various regression techniques including multiple linear, polynomial, and sine regression with gradient descent.
-- **grpo_group_relative_policy_optimization.ipynb**: Implementation of Group Relative Policy Optimization (GRPO), a reinforcement learning algorithm that enhances LLM's reasoning abilities by generating multiple responses to a given prompt, evaluating each using a reward function (solution correctness in math), and updating the model based on the relative performance of these responses within the group
 - **reinforcement-learning-deep-q-learning**: Implementation of Deep Q-learning reinforcement learning and applied to Snake game.
+- **grpo_group_relative_policy_optimization.ipynb**: Implementation of Group Relative Policy Optimization (GRPO), a reinforcement learning algorithm that enhances LLM's reasoning abilities by generating multiple responses to a given prompt, evaluating each using a reward function (solution correctness in math), and updating the model based on the relative performance of these responses within the group
 
 #### Transformer
 
